@@ -7,13 +7,13 @@ Download and install Oracle VirtualBox and then download the latest Ubuntu serve
 ![Oracle VirtualBox](imgs\1.png)
 
 Then, click install a new machine, choose Ubuntu server and set up username, password, memory size, number of CPUs and disk size
-![](imgs\2.png)
-![](imgs\3.png)
-![](imgs\4.png)
+![instal_1](imgs\2.png)
+![instal_2](imgs\3.png)
+![instal_3](imgs\4.png)
 
 Now we have the server installed!
-![](imgs\5.png)
-![](imgs\6.png)
+![installed_1](imgs\5.png)
+![installed_2](imgs\6.png)
 
 ## Materials I used
 - [Josh Madakor's YT channel](https://www.youtube.com/@JoshMadakor)
